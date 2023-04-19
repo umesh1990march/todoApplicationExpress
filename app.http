@@ -1,0 +1,20 @@
+GET http://localhost:3000/todos/?priority=HIGH
+
+###
+GET http://localhost:3000/todos/2
+
+###
+
+POST  http://localhost:3000/todos
+
+###
+PUT   http://localhost:3000/todos/1
+
+###
+GET http://localhost:3000/todos/2
+
+###
+DELETE  http://localhost:3000/todos/2
+
+
+
